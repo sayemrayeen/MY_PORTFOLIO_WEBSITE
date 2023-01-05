@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MY_PORTFOLIO_WEBSITE/static/css/main.df106396.css",
+    "main.js": "/MY_PORTFOLIO_WEBSITE/static/js/main.e755c48c.js",
+    "static/media/me.png": "/MY_PORTFOLIO_WEBSITE/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/MY_PORTFOLIO_WEBSITE/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/Sayem-Aslam.pdf": "/MY_PORTFOLIO_WEBSITE/static/media/Sayem-Aslam.459f910693c742f55f96.pdf",
+    "static/media/portfolio5.png": "/MY_PORTFOLIO_WEBSITE/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/MY_PORTFOLIO_WEBSITE/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/MY_PORTFOLIO_WEBSITE/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/MY_PORTFOLIO_WEBSITE/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/MY_PORTFOLIO_WEBSITE/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/MY_PORTFOLIO_WEBSITE/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/MY_PORTFOLIO_WEBSITE/index.html",
+    "main.df106396.css.map": "/MY_PORTFOLIO_WEBSITE/static/css/main.df106396.css.map",
+    "main.e755c48c.js.map": "/MY_PORTFOLIO_WEBSITE/static/js/main.e755c48c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df106396.css",
+    "static/js/main.e755c48c.js"
+  ]
+}
